@@ -6,20 +6,16 @@
 		"lat": 1254.54666,
 		"long": 9879.6462,
 		"alt": 0
-		}
+		},
 
-	},
-	{
 	"test2":
 		{
 		"description": "quack",
 		"lat": 1234.2342,
 		"long": 2344.6283,
 		"alt": 0
-		}
+		},
 
-	},
-	{
 	"test3":
 		{
 		"description": "random text",
@@ -27,5 +23,4 @@
 		"long": 2363.2362,
 		"alt": 0
 		}
-	}
 ]
