@@ -1,0 +1,216 @@
+[
+	{
+	"Name":"Amostra 1",
+    "values": [[0, 0.1],[1, 9.8],[2, 79.4],[3, 10.7]],
+	"Histogram": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"FrequencyCurve": {
+        "disabled": false,
+        "userChoice": true
+		},
+    "Cumulative": {
+        "disabled": false,
+		"userChoice": true
+		}
+	},
+	{
+	"Name":"Amostra 3",
+	"values": [[1, 1.9],[2, 87.4],[3, 10.4],[4, 0.2]],
+	"Histogram": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"FrequencyCurve": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"Cumulative": {
+		"disabled": false,
+		"userChoice": true
+		}
+	},
+	{
+	"Name":"Amostra 5B",
+	"values": [[-2, 0.75],[-1, 3.13],[0, 13.4],[1, 50.53],[2, 26.47],[3, 4.76],[4, 0.96]],
+	"Histogram": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"FrequencyCurve": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"Cumulative": {
+		"disabled": false,
+		"userChoice": true
+		}
+	},
+	{
+	"Name":"Amostra 6",
+	"values": [[0, 19.8],[1, 16.8],[2, 31.3],[3, 25.4],[4, 6.7]],
+	"Histogram": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"FrequencyCurve": {
+		"disabled": false,
+		"userChoice": true
+		},
+	"Cumulative": {
+		"disabled": false,
+		"userChoice": true
+		}
+	}
+]
+	
+	
+	
+	,
+	{
+	"name": "test1",
+	"description": "Mapa das Amostras",
+	"coord": ["38.74375", "-009.4615278"],
+	"zoom": 13,
+	"pins":[{"color":"#FFFF00",
+			"coord":["38.7330556", "-009.4730556"],
+			"description":"Amostra 1"
+			},
+			{"color":"#FF0000",
+			"coord":["38.7330556", "-009.4733333"],
+			"description":"Amostra 2"
+			},
+			{"color":"#008000",
+			"coord":["38.7327778", "-009.4708333"],
+			"description":"Amostra 3"
+			},
+			{"color":"#000080",
+			"coord":["38.7322222", "-009.4677778"],
+			"description":"Amostra 4"
+			},
+			{"color":"#800080",
+			"coord":["38.7544444", "-009.4500000"],
+			"description":"Amostra 5A"
+			},
+			{"color":"#FF6C00",
+			"coord":["38.7552778", "-009.4497222"],
+			"description":"Amostra 5B"
+			},
+			{"color":"#FFAA00",
+			"coord":["38.7569444", "-009.4511111"],
+			"description":"Amostra 6"
+			},
+			{"color":"DodgerBlue",
+			"coord":["38.7555556", "-009.4500000"],
+			"description":"Amostra 7"
+			}]
+	},
+	{
+	"name": "test2",
+	"description": "Mapa de Portugal - zona de amostragem",
+	"coord": ["38.7330556", "-009.4730556"],
+	"zoom": 6,
+	"color": "DodgerBlue",
+	"pin_description": "<b>Zona de Amostragem</b><br>Entre a praia do Guincho e a Malveira da Serra"
+	},
+	{
+	"name": "test3",
+	"description": "random text",
+	"lat": 5332.54666,
+	"long": 2363.2362,
+	"alt": 0
+	}
+]
+
+
+
+funçao recebe  data escolha_de_dados xLimit GranGraph(1/2) div_id
+
+
+
+
+var xLimit = 5;
+                var chart = nv.models.GranGraph2(xLimit);
+                var DataSet = [];
+
+                var newData = {
+                    "ID":12,
+                    "Name":"Amostra 1",
+                    "values": [[0, 0.1],[1, 9.8],[2, 79.4],[3, 10.7]],
+                    "Histogram": {
+                        "disabled": false, //change initial appearance (if it's showing)
+                        "userChoice": true
+                    },
+                    "FrequencyCurve": {
+                        "disabled": false,
+                        "userChoice": true
+                    },
+                    "Cumulative": {
+                        "disabled": false,
+                        "userChoice": true
+                    }
+                };
+                chart.addData(newData,DataSet);
+
+                var newData = {
+                    "ID":12,
+                    "Name":"Amostra 3",
+                    "values": [[1, 1.9],[2, 87.4],[3, 10.4],[4, 0.2]],
+                    "Histogram": {
+                        "disabled": false, //change initial appearance (if it's showing)
+                        "userChoice": true
+                    },
+                    "FrequencyCurve": {
+                        "disabled": false,
+                        "userChoice": true
+                    },
+                    "Cumulative": {
+                        "disabled": false,
+                        "userChoice": true
+                    }
+                };
+                chart.addData(newData,DataSet);
+
+                var newData = {
+                    "ID":12,
+                    "Name":"Amostra 5B",
+                    "values": [[-2, 0.75],[-1, 3.13],[0, 13.4],[1, 50.53],[2, 26.47],[3, 4.76],[4, 0.96]],
+                    "Histogram": {
+                        "disabled": false, //change initial appearance (if it's showing)
+                        "userChoice": true
+                    },
+                    "FrequencyCurve": {
+                        "disabled": false,
+                        "userChoice": true
+                    },
+                    "Cumulative": {
+                        "disabled": false,
+                        "userChoice": true
+                    }
+                };
+                chart.addData(newData,DataSet);
+
+                var newData = {
+                    "ID":12,
+                    "Name":"Amostra 6",
+                    "values": [[0, 19.8],[1, 16.8],[2, 31.3],[3, 25.4],[4, 6.7]],
+                    "Histogram": {
+                        "disabled": false, //change initial appearance (if it's showing)
+                        "userChoice": true
+                    },
+                    "FrequencyCurve": {
+                        "disabled": false,
+                        "userChoice": true
+                    },
+                    "Cumulative": {
+                        "disabled": false,
+                        "userChoice": true
+                    }
+                };
+                chart.addData(newData,DataSet);
+
+                chart.DataSetUp(DataSet);
+                chart.updateChart('#chart0 svg', DataSet);
+
+                return "GranGraph Comparação"
