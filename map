@@ -3,7 +3,7 @@
 	"name": "test1",
 	"id": "mapid4",
 	"description": "Mapa das Amostras",
-	"coord": ["38.74375, -009.4615278"],
+	"coord": ["38.74375", "-009.4615278"],
 	"zoom": 13,
 	"pins":[{"color":"#FFFF00",
 			"coord":["38.7330556", "-009.4730556"],
