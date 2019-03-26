@@ -5,38 +5,39 @@
 	"description": "Mapa das Amostras",
 	"coord": [38.74375, -009.4615278],
 	"zoom": 13,
-	"pins":{"color":"#FFFF00",
-			"coord":[38.7330556, -009.4730556],
-			"description":"Amostra 1"
-			},
-			{"color":"#FF0000",
-			"coord":[38.7330556, -009.4733333],
-			"description":"Amostra 2"
-			},
-			{"color":"#008000",
-			"coord":[38.7327778, -009.4708333],
-			"description":"Amostra 3"
-			},
-			{"color":"#000080",
-			"coord":[38.7322222, -009.4677778],
-			"description":"Amostra 4"
-			},
-			{"color":"#800080",
-			"coord":[38.7544444, -009.4500000],
-			"description":"Amostra 5A"
-			},
-			{"color":"#FF6C00",
-			"coord":[38.7552778, -009.4497222],
-			"description":"Amostra 5B"
-			},
-			{"color":"#FFAA00",
-			"coord":[38.7569444, -009.4511111],
-			"description":"Amostra 6"
-			},
-			{"color":"DodgerBlue",
-			"coord":[38.7555556, -009.4500000],
-			"description":"Amostra 7"
-			}
+	"pins":{
+		"color":"#FFFF00",
+		"coord":[38.7330556, -009.4730556],
+		"description":"Amostra 1"
+		},
+		{"color":"#FF0000",
+		"coord":[38.7330556, -009.4733333],
+		"description":"Amostra 2"
+		},
+		{"color":"#008000",
+		"coord":[38.7327778, -009.4708333],
+		"description":"Amostra 3"
+		},
+		{"color":"#000080",
+		"coord":[38.7322222, -009.4677778],
+		"description":"Amostra 4"
+		},
+		{"color":"#800080",
+		"coord":[38.7544444, -009.4500000],
+		"description":"Amostra 5A"
+		},
+		{"color":"#FF6C00",
+		"coord":[38.7552778, -009.4497222],
+		"description":"Amostra 5B"
+		},
+		{"color":"#FFAA00",
+		"coord":[38.7569444, -009.4511111],
+		"description":"Amostra 6"
+		},
+		{"color":"DodgerBlue",
+		"coord":[38.7555556, -009.4500000],
+		"description":"Amostra 7"
+		}
 	},
 	{
 	"name": "test2",
