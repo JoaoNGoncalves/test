@@ -1,0 +1,16 @@
+[
+	{
+	"A": "a) Muito grosseira",
+	"B": "b) Grosseira",
+	"C": "c) Média",
+	"D": "d) Fina",
+	"E": "e) Fina",	
+	"correct": "D"
+	},
+	{
+	"A": "a) Bem calibrada ",
+	"B": "b) Moderadamente calibrada",
+	"C": "c) Mal calibrada", 
+	"correct": "B"
+	}
+]
