@@ -1,0 +1,63 @@
+[
+	{
+	"name": "Imagem da Amostra 1",
+	"url": "https://2jgc1w.db.files.1drv.com/y4mxplSXLjTmlZcNoR6BwDk_n3rD3XT3vPi4xV4J5WV1VGU54DE466F9Je-4HY-1-v9yw34_No_4STEL8LKocrI99DKa0vXGuSo8ie3QKkxDm8p7NyL8RC8HOAbKJ1sThQoFC63lKGPXhSXRbUIXIW1s3IE1nEshbptI_eOxdrsKa8o9NXgrccgWg9BCXhhNGJzNA8CFRsTyFgcEP4jHqOS-g?width=5184&height=3456&cropmode=none",
+	"anot":[{
+			"description":"Mineraloclasto",
+			"values":[{
+				"x":323,
+				"y":17,
+				"height":80,
+				"width":75
+				},{
+				"x":428,
+				"y":51,
+				"height":54,
+				"width":52
+				},{
+				"x":124,
+				"y":103,
+				"height":88,
+				"width":79
+				},{
+				"x":258,
+				"y":179,
+				"height":74,
+				"width":70
+				}]
+			},
+			{
+			"description":"Bioclasto",
+			"values":[{
+				"x":398,
+				"y":152,
+				"height":79,
+				"width":85
+				},{
+				"x":541,
+				"y":146,
+				"height":56,
+				"width":99
+				},{
+				"x":211,
+				"y":289,
+				"height":113,
+				"width":84
+				}]
+			
+			}]
+	},
+	{
+	"name": "Imagem da Amostra 2",
+	"url": "https://ntzfhg.db.files.1drv.com/y4mb_mBFMwAuBUM-bPTaXlLHfXhzejwnRKxP94mFDtubp4PXDDhLDdIHR52CtJJ1Is50dngn-ysOGbKcGLYoXVWjtibg9DcS3r2VH08akMA6iAKEFV1VU23x749x9aH3sWwtxP3GY0p1J8PlZAt39eRuYCVOKNM5Of9FHwCB1o_DNjxUm61BXkJMLMpotPIQeGjfj9P4HPO9myb8veUYajxCQ?width=5184&height=3456&cropmode=none",
+	"anot":[{
+			"description":"<img src='https://2jgc1w.db.files.1drv.com/y4mxplSXLjTmlZcNoR6BwDk_n3rD3XT3vPi4xV4J5WV1VGU54DE466F9Je-4HY-1-v9yw34_No_4STEL8LKocrI99DKa0vXGuSo8ie3QKkxDm8p7NyL8RC8HOAbKJ1sThQoFC63lKGPXhSXRbUIXIW1s3IE1nEshbptI_eOxdrsKa8o9NXgrccgWg9BCXhhNGJzNA8CFRsTyFgcEP4jHqOS-g?width=5184&height=3456&cropmode=none' />",
+			"values":[{
+				"x":215,
+				"y":161,
+				"height":119,
+				"width":82
+				}]
+			}]
+	}
+]
