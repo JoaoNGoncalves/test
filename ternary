@@ -1,6 +1,5 @@
 [
 	{
-	"ID":"teste16",
 	"Name":"Amostra 1",
 	"values": [[0,0,100]],
 	"mode": "markers", 
@@ -9,7 +8,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste17",
 	"Name":"Amostra 2",
 	"values": [[0,0,100]],
 	"mode": "markers",
@@ -18,7 +16,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste18",
 	"Name":"Amostra 3",
 	"values": [[0,0,100]],
 	"mode": "markers",
@@ -27,7 +24,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste19",
 	"Name":"Amostra 4",
 	"values": [[23.7,0,76.3]],
 	"mode": "markers",
@@ -36,7 +32,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste20",
 	"Name":"Amostra 5A",
 	"values": [[31.4,0,68.6]],
 	"mode": "markers",
@@ -45,7 +40,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste21",
 	"Name":"Amostra 5B",
 	"values": [[3.9,0,96.1]],
 	"mode": "markers",
@@ -54,7 +48,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste22",
 	"Name":"Amostra 6",
 	"values": [[0,0,100]],
 	"mode": "markers",
@@ -63,7 +56,6 @@
 	"text": ""
 	},
 	{
-	"ID":"teste23",
 	"Name":"Amostra 7",
 	"values": [[49.2,0,50.8]],
 	"mode": "markers",
