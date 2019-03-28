@@ -1,16 +1,10 @@
 [
 	{
-	"A": "a) Muito grosseira",
-	"B": "b) Grosseira",
-	"C": "c) Média",
-	"D": "d) Fina",
-	"E": "e) Fina",	
-	"correct": "D"
+	"options": ["Muito grosseira", "Grosseira", " Média", "Fina", "Fina"],
+	"correct": 4
 	},
 	{
-	"A": "a) Bem calibrada ",
-	"B": "b) Moderadamente calibrada",
-	"C": "c) Mal calibrada", 
-	"correct": "B"
+	"options": ["Bem calibrada", "Moderadamente calibrada", " Mal calibrada"],
+	"correct": 2
 	}
 ]
