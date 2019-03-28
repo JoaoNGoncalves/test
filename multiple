@@ -1,6 +1,6 @@
 [
 	{
-	"options": ["Muito grosseira", "Grosseira", " Média", "Fina", "Fina"],
+	"options": ["Muito grosseira", "Grosseira", "Média", "Fina", "Muito Fina"],
 	"correct": 4
 	},
 	{
