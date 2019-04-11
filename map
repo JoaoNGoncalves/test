@@ -1,7 +1,6 @@
 [
 	{
 	"name": "Mapa das Amostras",
-	"description": "test1",
 	"coord": ["38.74375", "-009.4615278"],
 	"zoom": 13,
 	"pins":[{"color":"#FFFF00",
@@ -39,7 +38,6 @@
 	},
 	{
 	"name": "Mapa de Portugal - zona de amostragem",
-	"description": "zona de amostragem",
 	"coord": ["38.7330556", "-009.4730556"],
 	"zoom": 6,
 	"color": "DodgerBlue",
