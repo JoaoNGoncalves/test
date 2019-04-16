@@ -4,14 +4,14 @@
 	"values": [[0,0,100]],
 	"mode": "markers", 
 	"disabled": false, 
-	"userChoice": false,
+	"userChoice": true,
 	"text": ""
 	},
 	{
 	"Name":"Amostra 2",
 	"values": [[0,0,100]],
 	"mode": "markers",
-	"disabled": true,
+	"disabled": false,
 	"userChoice": true,
 	"text": ""
 	},
@@ -20,7 +20,7 @@
 	"values": [[0,0,100]],
 	"mode": "markers",
 	"disabled": false,
-	"userChoice": false,
+	"userChoice": true,
 	"text": ""
 	},
 	{
