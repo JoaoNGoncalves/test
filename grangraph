@@ -4,7 +4,7 @@
     	"values": [[0, 0.1],[1, 9.8],[2, 79.4],[3, 10.7]],
 	"Histogram": {
 		"disabled": false,
-		"userChoice": true
+		"userChoice": false
 		},
 	"FrequencyCurve": {
         	"disabled": false,
